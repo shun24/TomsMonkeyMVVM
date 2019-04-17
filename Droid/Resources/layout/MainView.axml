@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+   <MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerView
+        android:id="@+id/monkeyList"
+        android:scrollbars="vertical"
+        android:background="@@android:color/holo_blue_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxItemTemplate="@layout/monkey_list_item"
+        />
+<!--   local:MvxBind="ItemsSource MonkeyList";SelectedItem SelectedItem; ItemClick ItemSelected-->
+    <TextView
+        android:id="@+id/tvSelectedPosition"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"/>
+    <Button
+        android:id="@+id/countUp"
+        android:text="Count+"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"/>
+    <Button
+        android:id="@+id/countUpExecuteButton"
+        android:text="count up 実行!"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"/>
+    <Button
+        android:id="@+id/gogoButton"
+        android:text="GOGO!!!!"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"/>
+    <MvvmCross.Binding.Droid.Views.MvxRadioGroup android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/sexGroupe"
+        local:MvxItemTemplate="@layout/sex_item"/>
+</LinearLayout>

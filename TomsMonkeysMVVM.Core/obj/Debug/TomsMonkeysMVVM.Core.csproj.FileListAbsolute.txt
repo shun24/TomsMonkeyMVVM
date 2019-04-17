@@ -1,0 +1,15 @@
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/TomsMonkeysMVVM.Core.dll
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/TomsMonkeysMVVM.Core.pdb
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/MvvmCross.Core.dll
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/MvvmCross.Platform.pdb
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/MvvmCross.Core.pdb
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/MvvmCross.Binding.pdb
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/bin/Debug/MvvmCross.Localization.pdb
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/obj/Debug/TomsMonkeysMVVM.Core.csprojAssemblyReference.cache
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/obj/Debug/TomsMonkeysMVVM.Core.csproj.CoreCompileInputs.cache
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/obj/Debug/TomsMonkeysMVVM.Core.csproj.CopyComplete
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/obj/Debug/TomsMonkeysMVVM.Core.dll
+/Users/shuntaro/VisualStudioProjects/TomsMonkeysMVVM/TomsMonkeysMVVM.Core/obj/Debug/TomsMonkeysMVVM.Core.pdb
